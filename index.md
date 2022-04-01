@@ -19,3 +19,6 @@ layout: default
 <br>
 
 {% include 05-emphasis.md %}
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
